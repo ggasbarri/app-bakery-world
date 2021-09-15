@@ -1,3 +1,10 @@
 {
-    
+    "main_title": "Welcome to your Bakery World",
+    "main_subtitle": "Find a new recipe that you can try today!",
+    "benefit_1_title": "Discover",
+    "benefit_1_subtitle": "Try out new types of bread",
+    "benefit_2_title": "Learn",
+    "benefit_2_subtitle": "Find out how professional bakers prepare their recipes",
+    "benefit_3_title": "Customize",
+    "benefit_3_subtitle": "Tune any recipe and use it as your own!"
 }

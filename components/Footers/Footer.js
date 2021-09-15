@@ -31,19 +31,19 @@ export default function Footer() {
                 Find us on any of these platforms, we respond 1-2 business days.
               </h5>
               <div className="mt-6 lg:mb-0 mb-6">
-                <button
+                {/* <button
                   className="bg-white text-lightBlue-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
                   <i className="fab fa-twitter"></i>
-                </button>
+                </button> */}
                 <button
                   className="bg-white text-lightBlue-600 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
                   <i className="fab fa-facebook-square"></i>
                 </button>
-                <button
+                {/* <button
                   className="bg-white text-pink-400 shadow-lg font-normal h-10 w-10 items-center justify-center align-center rounded-full outline-none focus:outline-none mr-2"
                   type="button"
                 >
@@ -54,7 +54,7 @@ export default function Footer() {
                   type="button"
                 >
                   <i className="fab fa-github"></i>
-                </button>
+                </button> */}
               </div>
             </div>
             <div className="w-full lg:w-6/12 px-4">
