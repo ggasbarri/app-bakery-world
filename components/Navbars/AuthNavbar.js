@@ -3,6 +3,8 @@ import Link from "next/link";
 import { useTranslation } from "next-i18next";
 // components
 
+import LanguageDropdown from "components/Dropdowns/LanguageDropdown.js";
+
 export default function Navbar(props) {
   const { t } = useTranslation(["common", "navbar"]);
   const [navbarOpen, setNavbarOpen] = React.useState(false);
@@ -16,7 +18,7 @@ export default function Navbar(props) {
                 className="text-white text-sm font-bold leading-relaxed inline-block mr-4 py-2 whitespace-nowrap uppercase"
                 href="#pablo"
               >
-                {t("app_name")}
+                {t("common:app_name")}
               </a>
             </Link>
             <button
@@ -38,10 +40,15 @@ export default function Navbar(props) {
               {/* <li className="flex items-center">
                 <PagesDropdown />
               </li> */}
+
+              <li className="flex items-center">
+                <LanguageDropdown />
+              </li>
+
               <li className="flex items-center">
                 <a
                   className="lg:text-white lg:hover:text-blueGray-200 text-blueGray-700 px-3 py-4 lg:py-2 flex items-center text-xs uppercase font-bold"
-                  href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdemos.creative-tim.com%2Fnotus-nextjs%2F"
+                  href="https://www.facebook.com/App-Bakery-world-102289038813172"
                   target="_blank"
                   rel="noreferrer"
                 >
@@ -79,7 +86,7 @@ export default function Navbar(props) {
                   className="bg-white text-blueGray-700 active:bg-blueGray-50 text-xs font-bold uppercase px-4 py-2 rounded shadow hover:shadow-md outline-none focus:outline-none lg:mr-1 lg:mb-0 ml-3 mb-3 ease-linear transition-all duration-150"
                   type="button"
                 >
-                  {t("navbar_sign_in")}
+                  {t("navbar:sign_in")}
                 </button>
               </li>
             </ul>

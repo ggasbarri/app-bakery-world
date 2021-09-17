@@ -1,10 +1,16 @@
 {
-    "main_title": "Bienvenido a tu mundo de Panadería",
-    "main_subtitle": "¡Encuentra una nueva receta para probar hoy!",
-    "benefit_1_title": "Descubre",
-    "benefit_1_subtitle": "Experimenta nuevos tipos de pan",
-    "benefit_2_title": "Aprende",
-    "benefit_2_subtitle": "Conoce cómo los panaderos profesionales preparan sus recetas",
-    "benefit_3_title": "Personaliza",
-    "benefit_3_subtitle": "¡Afina cualquier receta para que se adapte a ti!"
+  "main_title": "Bienvenido a tu mundo de Panadería",
+  "main_subtitle": "¡Encuentra una nueva receta para probar hoy!",
+
+  "benefit_1_title": "Descubre",
+  "benefit_1_subtitle": "Experimenta nuevos tipos de pan con todo tipo de ingredientes",
+  "benefit_2_title": "Aprende",
+  "benefit_2_subtitle": "Conoce cómo los panaderos profesionales preparan sus recetas",
+  "benefit_3_title": "Personaliza",
+  "benefit_3_subtitle": "Mejora cualquier receta que te guste para que se adapte a ti",
+
+  "app_section_title": "Prueba nuestra app",
+  "app_section_subtitle": "Disponible para dispositivos Android. ¡Versión para iOS pronto!",
+  "app_card_title": "App Bakery World",
+  "app_card_subtitle": "¡Explora todas las recetas, guárdalas y modifícalas como quieras!"
 }

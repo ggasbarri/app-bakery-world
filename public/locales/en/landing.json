@@ -1,10 +1,16 @@
 {
-    "main_title": "Welcome to your Bakery World",
-    "main_subtitle": "Find a new recipe that you can try today!",
-    "benefit_1_title": "Discover",
-    "benefit_1_subtitle": "Try out new types of bread",
-    "benefit_2_title": "Learn",
-    "benefit_2_subtitle": "Find out how professional bakers prepare their recipes",
-    "benefit_3_title": "Customize",
-    "benefit_3_subtitle": "Tune any recipe and use it as your own!"
+  "main_title": "Welcome to your Bakery World",
+  "main_subtitle": "Find a new recipe that you can try today!",
+
+  "benefit_1_title": "Discover",
+  "benefit_1_subtitle": "Try out new types of bread with all kinds of ingredients",
+  "benefit_2_title": "Learn",
+  "benefit_2_subtitle": "Find out how professional bakers prepare their recipes",
+  "benefit_3_title": "Customize",
+  "benefit_3_subtitle": "Improve any recipe you like and then use it as your own",
+
+  "app_section_title": "Try our app",
+  "app_section_subtitle": "Available for Android devices. It's coming soon to iOS!",
+  "app_card_title": "App Bakery World",
+  "app_card_subtitle": "Explore all the recipes, save them and customize them to your needs!"
 }

@@ -1,4 +1,6 @@
 {
-  "navbar_sign_in": "Iniciar sesión",
-  "navbar_sign_up": "Regístrate"
+  "sign_in": "Iniciar sesión",
+  "sign_up": "Regístrate",
+  
+  "language": "Lenguaje"
 }
